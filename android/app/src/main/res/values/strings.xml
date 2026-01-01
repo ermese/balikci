@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Balıkhane</string>
+    <string name="title_activity_main">Balıkhane</string>
+    <string name="package_name">com.balikci.app</string>
+    <string name="custom_url_scheme">com.balikci.app</string>
+</resources>

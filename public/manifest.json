@@ -1,0 +1,26 @@
+{
+  "name": "Balıkhane - Stok Takip",
+  "short_name": "Balıkhane",
+  "description": "Balık hali için günlük stok takip uygulaması",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#c0e3ed",
+  "theme_color": "#2da5c4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/fish-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fish-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "tr"
+}
